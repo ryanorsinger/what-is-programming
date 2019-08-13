@@ -3,7 +3,7 @@ What is Programming
 
 ## Summary and rationale
 - Overview of what is programming?
-- How is programming vs. coding?
+- What is programming vs. "coding"?
 - How to program
 
 ## Live Site
